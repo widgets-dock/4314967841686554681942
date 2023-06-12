@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346282931906",
+    "project_id": "wearfit-pro-settings",
+    "storage_bucket": "wearfit-pro-settings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346282931906:android:7bcdb3c582c17d89ffad5b",
+        "android_client_info": {
+          "package_name": "com.kakeanpolah.dsgnhstcbc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346282931906-vvomd9dhsdpdspfnrgdj7h65as4pf78j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpw1uj73vvV6Rl9B7uOaBZ72R6eCQmoAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346282931906-vvomd9dhsdpdspfnrgdj7h65as4pf78j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
